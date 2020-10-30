@@ -65,7 +65,9 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   color: #777777; }
-
+iframe {
+	width:100%;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Heebo", sans-serif;
   font-weight: bold; }
@@ -3080,6 +3082,9 @@ h6 {
   .copy_right_text p a {
     color: #8490ff; }
 
+.contact-map {
+	margin-bottom: 40px;
+}
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */

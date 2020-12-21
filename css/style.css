@@ -3099,3 +3099,6 @@ h6 {
     background: url(../img/banner/home-banner.jpg) no-repeat scroll center right;
     background-size: cover;
 }
+.feature_area {
+background-color: #e7e7ea;
+}

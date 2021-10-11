@@ -293,8 +293,8 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
-  background-size: cover; }
+  /* background: url(../img/banner/home-banner.jpg) no-repeat scroll center center; */
+  background-size: cover; } 
   .home_banner_area .banner_inner {
     width: 100%; }
     .home_banner_area .banner_inner .home_left_img {
@@ -3096,7 +3096,8 @@ h6 {
 
 .home_banner_area {
     z-index: 1;
-    background: url(../img/banner/home-banner.jpg) no-repeat scroll center right;
+    /* background: url(../img/banner/home-banner.jpg) no-repeat scroll center right; */
+    background-color: #f9f9ff;
     background-size: cover;
 }
 .feature_area {
